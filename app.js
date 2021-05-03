@@ -9,9 +9,9 @@ let {listarTareas,nuevaTarea,borrarTarea,filtrarPorEstado}=require('./funciones/
 
 //console.log(arrayDeObjetos);
 
-listarTareas(arrayDeObjetos);
+//listarTareas(arrayDeObjetos);
 //nuevaTarea(arrayDeObjetos,{codigo:20,titulo:'remover archivos',estado:'pendiente'});
-//borrarTarea(arrayDeObjetos,20); 
+borrarTarea(arrayDeObjetos,20); 
 //console.log(filtrarPorEstado(arrayDeObjetos,'pendiente'));
 
 
