@@ -18,3 +18,7 @@ function buscarPorPatente(array,patente){
 }
 
 console.log(buscarPorPatente(array,'abc678'));
+
+
+
+sadassdas
