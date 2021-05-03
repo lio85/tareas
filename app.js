@@ -5,8 +5,7 @@ let {listarTareas,nuevaTarea,borrarTarea,filtrarPorEstado}=require('./funciones/
  //console.log(listarTareas);
 // console.log(nuevaTarea);
 // console.log(borrarTarea);
-// console.log(filtrarPorEstado);
-
+// console.log(filtrarPorEstado);console.
 //console.log(arrayDeObjetos);
 
 //listarTareas(arrayDeObjetos);
